@@ -1,5 +1,7 @@
 // https://eslint.org/docs/user-guide/configuring
 
+
+//eslint  检查js代码规范
 module.exports = {
   root: true,
   parser: 'babel-eslint',
